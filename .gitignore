@@ -1,2 +1,7 @@
 __pycache__/
 suno_bark.egg-info/
+
+# directories
+build/lib/bark/assets
+*assets*
+# notebooks
